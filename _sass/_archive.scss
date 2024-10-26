@@ -42,14 +42,14 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
-  font-size: $type-size-5;
+  /*font-size: $type-size-5;*/
 
   a + a {
     opacity: 0.5;
   }
-  & + p {
+  /*& + p {
      font-size: $type-size-6;
-   }
+   } */
 }
 
 /* remove border*/
@@ -68,7 +68,7 @@
 
   & + p {
     text-indent: 0;
-    font-size: $type-size-6;
+    /*font-size: $type-size-6;*/
   }
 }
 

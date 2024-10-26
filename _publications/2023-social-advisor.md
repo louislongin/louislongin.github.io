@@ -7,7 +7,7 @@ excerpt: 'This book examines the ontological status of AI advisers, arguing that
 date: 2023-11-19
 venue: 'Georg Olms Verlag'
 paperurl: '/files/longin2023social.pdf'
-links: 'https://edoc.ub.uni-muenchen.de/32546/'
+link: 'https://edoc.ub.uni-muenchen.de/32546/'
 citation: 'Longin, Louis  (2023):  The social role of AI advisers.  Dissertation, LMU München: Faculty of Philosophy, Philosophy of Science and the Study of Religion '
 ---
 

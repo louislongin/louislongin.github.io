@@ -20,8 +20,10 @@ This work represents a significant shift from viewing perception as purely indiv
 ## Publications
 
 Deroy, O., & Longin, L. (2024). Joint Perception Needs Representations. In The Roles of Representation in Visual Perception (pp. 25-45). Cham: Springer International Publishing.
-[Article](https://link.springer.com/chapter/10.1007/978-3-031-57353-8_2)
+
+[Article](https://link.springer.com/chapter/10.1007/978-3-031-57353-8_2){: .btn--research}
 
 Deroy, O., Longin, L., & Bahrami, B. (2024). Co‐perceiving: Bringing the social into perception. Wiley Interdisciplinary Reviews: Cognitive Science, e1681.
-[Article](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcs.1681)
-[Pdf](/files/longin2024co-perceiving.pdf)
+
+[Article](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcs.1681){: .btn--research}
+[Pdf](/files/longin2024co-perceiving.pdf){: .btn--research}

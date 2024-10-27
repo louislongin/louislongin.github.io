@@ -19,15 +19,19 @@ The research helps fill a critical gap in our understanding of human-AI relation
 ## Publications
 
 Longin, L. (2023). The Social Role of AI Advisors. 
-[Article](https://edoc.ub.uni-muenchen.de/32546/)
 
-Longin, L., Bahrami, B., & Deroy, O. (2023). Intelligence brings responsibility-Even smart AI assistants are held responsible. Iscience, 26(8). 
-[Article](https://www.cell.com/iscience/fulltext/S2589-0042(23)01571-7) 
-[Interview](https://mi3.info/blog-post/the-blurred-lines-of-responsibility-how-people-perceive-ai-assistants/)
+[Article](https://edoc.ub.uni-muenchen.de/32546/){: .btn--research}
+
+Longin, L., Bahrami, B., & Deroy, O. (2023). Intelligence brings responsibility-Even smart AI assistants are held responsible. Iscience, 26(8).
+
+[Article](https://www.cell.com/iscience/fulltext/S2589-0042(23)01571-7){: .btn--research}
+[Interview](https://mi3.info/blog-post/the-blurred-lines-of-responsibility-how-people-perceive-ai-assistants/){: .btn--research}
 
 Longin, L., & Deroy, O. (2022). Augmenting perception: How artificial intelligence transforms sensory substitution. Consciousness and Cognition, 99, 103280. 
-[Article](https://www.sciencedirect.com/science/article/pii/S1053810022000125)
+
+[Article](https://www.sciencedirect.com/science/article/pii/S1053810022000125){: .btn--research}
 
 Longin, L. (2020). Towards a Middle-Ground Theory of Agency for Artificial Intelligence. In Culturally Sustainable Social Robotics (pp. 17-26). IOS Press. 
-[Article](https://ebooks.iospress.nl/doi/10.3233/FAIA200897)
+
+[Article](https://ebooks.iospress.nl/doi/10.3233/FAIA200897){: .btn--research}
 

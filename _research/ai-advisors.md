@@ -1,7 +1,7 @@
 ---
 title: "AI Advisors"
 layout: single-portfolio
-excerpt: "<img src='/images/ai-advisor.png' alt=''>"
+excerpt: "<img src='/images/ai-advisor.png' alt='ai-advisor-project'>"
 collection: research
 order_number: 20
 header: 

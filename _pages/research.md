@@ -7,27 +7,15 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
+The intersection of human cognition, technology, and social interaction forms the foundation of my research, spanning three interconnected projects that examine how technology reshapes human experience and decision-making.
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+My primary research (**Data Privacy**) investigates the evolution of privacy norms in our increasingly digitized world. Through the theoretical framework of contextual integrity, this work examines how individuals navigate data-sharing across diverse digital environments, from social platforms to workplace monitoring systems. The research employs experimental methods and participatory approaches to demonstrate that collective deliberation significantly enhances privacy decision-making processes. A notable extension of this work addresses emerging challenges in neurotechnology, particularly focusing on ethical frameworks for brain-computer interfaces and emphasizing community-based approaches to privacy protection.
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+The **AI-advisor** project reveals subtle yet profound shifts in human cognition when interacting with artificial intelligence systems. This work uncovers how individuals unconsciously attribute agency and responsibility to AI advisory systems, even when these systems function identically to non-AI alternatives. The findings highlight a fascinating cognitive bias where AI presence alone alters fundamental patterns of responsibility attribution, contributing to our understanding of human-AI relationships.
+
+My theoretical work on **co-perception** challenges traditional individualistic models of sensory processing. This research establishes that perceiving alongside others fundamentally transforms basic perceptual processes and decision-making. The project demonstrates the existence of automatic mechanisms for distinguishing between private and shared perceptual experiences, separate from established concepts of joint attention. These findings have significant implications for understanding social learning dynamics and the development of collaborative technologies.
+
+These interconnected projects contribute to a broader understanding of how technological advancement reshapes human cognition and social interaction. The findings inform the design of human-centered technologies while advancing theoretical frameworks in cognitive science and human-computer interaction.
 
 <nbsp>
 

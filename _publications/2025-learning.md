@@ -1,5 +1,5 @@
 ---
-title: "Data sharing in learning analytics: how context and group discussion influence the individual willingness to share"
+title: "Data sharing in learning analytics: How context and group discussion influence the individual willingness to share"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-learning

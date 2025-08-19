@@ -3,7 +3,7 @@ title: "Joint perception needs representations"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-joint-perception
-excerpt: 'The paper introduces the concept of co-perception as the ability to distinguish between objects perceived privately and those perceived commonly with others.'
+excerpt: 'The book chapter introduces joint perception as the phenomenon where perceivers become mutually aware of seeing the same objects together, and argues that representational theories are necessary to explain the empirical evidence showing that perception itself changes when viewing objects alone versus with others.'
 date: 2024-05-31
 venue: 'In: The Roles of Representation in Visual Perception.'
 paperurl: 'http://louislongin.github.io/files/longin2024-joint-perception.pdf'

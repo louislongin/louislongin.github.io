@@ -1,11 +1,11 @@
 ---
 title: "Co-Perception"
 layout: single-portfolio
-excerpt: "<img src='/images/co-perception-header.png' alt='co-perception'>"
+excerpt: "<img src='/images/co-perception.png' alt='co-perception'>"
 collection: research
 order_number: 10
 header: 
-  og_image: "research/co-perception-header.png"
+  og_image: "research/co-perception.png"
 ---
 
 

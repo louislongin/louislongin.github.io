@@ -12,13 +12,23 @@ Digital technologies have fundamentally transformed how we share personal data, 
 
 The research explores two critical dimensions of modern privacy norms. First, it examines how individuals navigate data-sharing decisions across different contexts, from health data to location tracking, revealing that people become more selective and thoughtful about sharing data after group deliberation. Through experimental studies using interactive games and vignette methodologies, the work demonstrates that social deliberation can help restore sensitivity to privacy considerations that may be eroded through constant data-sharing demands.
 
-Second, the project breaks new ground by investigating the specific privacy challenges posed by neurotechnology - an emerging field that enables unprecedented access to mental data. As brain-computer interfaces and other neurotechnologies become more prevalent, understanding how to protect mental privacy while enabling beneficial uses of neural data has become crucial. By applying the contextual integrity framework to this domain, the research aims to develop ethical guidelines for neurotechnology that respect both individual privacy rights and collective benefits.
+Second, the project challenges traditional forms of informed consent. Rather than requiring individuals to make isolated decisions about data sharing based on lengthy, standardized consent forms, this research demonstrates the value of interactive, socially-grounded consent processes. The findings suggest that meaningful consent emerges through collective deliberation where individuals can discuss contextual factors, share perspectives, and calibrate their judgments against social norms. This participatory approach recognizes that privacy decisions are inherently social and contextual, requiring more nuanced engagement than the current top-down frameworks allow.
 
 This work addresses a critical gap in privacy research by moving beyond individual privacy preferences to examine how social norms and collective deliberation shape data-sharing practices. The findings suggest that participatory approaches, where people discuss and negotiate privacy boundaries together, may be key to developing more nuanced and effective privacy protections for the digital age.
 
 ## Articles
 
-Longin, L., Briceno, D. M., & Poquet, O. (2024). The Power of Conversation: Learners Become More Cautious Sharing Learning Data after a Group Discussion. Pre-print.
+Louis Longin, Deisy Briceno, Oleksandra Poquet. 2025. Data sharing in learning analytics: how context and group discussion influence the individual willingness to share. Humanities and Social Sciences Communications, 12(1), 1.
 
-[Article](https://doi.org/10.5281/zenodo.13294012){: .btn--research}
-[PDF](/files/longin2024power-conversation.pdf){: .btn--research}
+[Article](https://doi.org/10.31234/osf.io/5pg3t_v1){: .btn--research}
+[PDF](/files/longin2025learning.pdf){: .btn--research}
+
+Longin, L., Bahrami, B., & Deroy, O. 2025. Thinking together, more than thinking twice, makes better data privacy judgements.
+
+[Article](https://doi.org/10.31219/osf.io/gtqrn_v1){: .btn--research}
+[PDF](/files/Mlongin2025thinking-together.pdf){: .btn--research}
+
+Montenegro, D., Longin, L., & Poquet, O. 2025. Critical Argumentation about Data from Educational Technology Influences Subsequent Data-Sharing Decisions. 
+
+[Article](https://doi.org/10.31219/osf.io/gtqrn_v1){: .btn--research}
+[PDF](/files/Montenegro2025argumentation.pdf){: .btn--research}

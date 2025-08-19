@@ -1,11 +1,11 @@
 ---
 title: "Mental Privacy"
 layout: single-portfolio
-excerpt: "<img src='/images/ai-advisor-header.png' alt='ai-advisor-project'>"
+excerpt: "<img src='/images/neuro-privacy.png' alt='ai-advisor-project'>"
 collection: research
 order_number: 40
 header: 
-  og_image: "research/ai-advisor-header.png"
+  og_image: "research/neuro-privacy.png"
 ---
 
 The emergence of consumer neurotechnologies has introduced unprecedented access to brain-derived data, raising fundamental questions about mental privacy that extend beyond traditional data protection frameworks. While ethical debates have focused on the superior informativeness of neural data or unfamiliarity with new technologies, less is understood about the underlying psychological and philosophical foundations that shape public attitudes toward brain data sharing. This research project investigates whether people's reluctance to share neural information stems from perceived epistemic value or from deeper symbolic associations between the brain and personal identity.

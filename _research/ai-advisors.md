@@ -1,11 +1,11 @@
 ---
 title: "AI Advisors"
 layout: single-portfolio
-excerpt: "<img src='/images/ai-advisor-header.png' alt='ai-advisor-project'>"
+excerpt: "<img src='/images/ai-advisor.png' alt='ai-advisor-project'>"
 collection: research
 order_number: 20
 header: 
-  og_image: "research/ai-advisor-header.png"
+  og_image: "research/ai-advisor.png"
 ---
 
 The rapid advancement of AI technology has raised critical questions about how humans perceive and interact with AI systems, particularly in advisory roles. While previous research has focused on fully autonomous AI agents, less is known about how humans attribute responsibility and agency to AI systems that serve purely instrumental or advisory functions. This research project investigates whether even basic AI assistants are perceived as sharing responsibility with their human users, despite being designed as mere tools.

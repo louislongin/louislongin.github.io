@@ -1,5 +1,5 @@
 ---
-title: "Intelligence brings responsibility: even smart AI-assistants are held responsible"
+title: "Intelligence brings responsibility: Even smart AI-assistants are held responsible"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-responsibility

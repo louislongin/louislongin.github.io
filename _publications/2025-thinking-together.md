@@ -3,7 +3,7 @@ title: "Thinking together, more than thinking twice, makes better data privacy j
 collection: publications
 category: manuscripts
 permalink: /publication/2025-thinking-together
-excerpt: 'The paper introduces the concept of privacy indifference as people's tendency to accept data-sharing practices without sensitivity to contextual factors, and demonstrates that group deliberation is more effective than individual reflection in improving contextual awareness of privacy decisions.'
+excerpt: "The paper introduces the concept of privacy indifference as people's tendency to accept data-sharing practices without sensitivity to contextual factors, and demonstrates that group deliberation is more effective than individual reflection in improving contextual awareness of privacy decisions."
 date: 2025-08-14
 venue: 'Pre-print'
 paperurl: 'http://louislongin.github.io/files/longin2025thinking-together.pdf'

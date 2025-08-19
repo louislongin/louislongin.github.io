@@ -1,7 +1,7 @@
 ---
 title: "Mental Privacy"
 layout: single-portfolio
-excerpt: "<img src='/images/neuro-privacy.png' alt='ai-advisor-project'>"
+excerpt: "<img src='/images/neuro-privacy.png' alt='mental-privacy-project'>"
 collection: research
 order_number: 40
 header: 
